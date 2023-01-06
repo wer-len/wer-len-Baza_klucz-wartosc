@@ -1,0 +1,56 @@
+{"__default__": {
+  "id1": {
+    "guard": "4571624603934e59a9afdd6b417d8f9e",
+    "value": {
+      "imie": "Weronika",
+      "nazwisko": "Lendzion",
+      "login": "Wersko",
+      "_id": "6f16c49b6ec647f4a08dafdf6b0b8799"
+    }
+  },
+  "id1.TA": {
+    "guard": "67ca832494c8423f934f45504c7999ee",
+    "value": [
+      {
+        "plik": "1.jpg",
+        "sciezka": "C:\\5 semestr\\Technical Analitics\\Cwiczenia\\1zajecia\\1.jpg",
+        "_id": "cc46262a16884a05b851125f27a8cc53"
+      },
+      {
+        "plik": "2.xlsx",
+        "sciezka": "C:\\5 semestr\\Technical Analitics\\Cwiczenia\\1zajecia\\2.jpg",
+        "_id": "22fd1cf2054a40e5ae4a25bd21625274"
+      }
+    ]
+  },
+  "id1.zad2": {
+    "guard": "29d633871c9a428b86fb370c184a56cb",
+    "value": [
+      {
+        "plik": "zad2.docx",
+        "sciezka": "C:\\5 semestr\\Technical Analitics\\Cwiczenia\\2zajecia\\zad2.docx",
+        "_id": "05cd48598d374a96992febb4bcddd253"
+      }
+    ]
+  },
+  "id1.zdj1": {
+    "guard": "e30f3855393f4eaaa3bb4a34ef1afd6d",
+    "value": [
+      {
+        "plik": "1.jpg",
+        "sciezka": "C:\\5 semestr\\Technical Analitics\\Cwiczenia\\1zajecia\\1.jpg",
+        "_id": "cc46262a16884a05b851125f27a8cc53"
+      }
+    ]
+  },
+  "id1.zdj2": {
+    "guard": "34d667ea205f4918b0fbf38677281d2d",
+    "value": [
+      {
+        "plik": "2.xlsx",
+        "sciezka": "C:\\5 semestr\\Technical Analitics\\Cwiczenia\\1zajecia\\2.jpg",
+        "_id": "22fd1cf2054a40e5ae4a25bd21625274"
+      }
+    ]
+  }
+}}
